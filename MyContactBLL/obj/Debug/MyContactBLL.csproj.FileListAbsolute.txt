@@ -1,0 +1,12 @@
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactBLL.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactBLL.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\obj\Debug\MyContactBLL.csprojAssemblyReference.cache
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\obj\Debug\MyContactBLL.csproj.CoreCompileInputs.cache
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\obj\Debug\MyContactBLL.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\obj\Debug\MyContactBLL.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactDAL.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactModel.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactDAL.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactDAL.dll.config
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\bin\Debug\MyContactModel.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactBLL\obj\Debug\MyContactBLL.csproj.CopyComplete

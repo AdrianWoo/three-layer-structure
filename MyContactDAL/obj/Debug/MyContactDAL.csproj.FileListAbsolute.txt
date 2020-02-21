@@ -1,0 +1,10 @@
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\bin\Debug\MyContactDAL.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\bin\Debug\MyContactDAL.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\obj\Debug\MyContactDAL.csprojAssemblyReference.cache
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\obj\Debug\MyContactDAL.csproj.CoreCompileInputs.cache
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\obj\Debug\MyContactDAL.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\obj\Debug\MyContactDAL.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\bin\Debug\MyContactDAL.dll.config
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\bin\Debug\MyContactModel.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\bin\Debug\MyContactModel.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactDAL\obj\Debug\MyContactDAL.csproj.CopyComplete

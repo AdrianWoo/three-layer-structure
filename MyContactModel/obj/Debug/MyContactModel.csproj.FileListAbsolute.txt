@@ -1,0 +1,5 @@
+D:\Users\Adrian\source\repos\MyContact\MyContactModel\bin\Debug\MyContactModel.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactModel\bin\Debug\MyContactModel.pdb
+D:\Users\Adrian\source\repos\MyContact\MyContactModel\obj\Debug\MyContactModel.csproj.CoreCompileInputs.cache
+D:\Users\Adrian\source\repos\MyContact\MyContactModel\obj\Debug\MyContactModel.dll
+D:\Users\Adrian\source\repos\MyContact\MyContactModel\obj\Debug\MyContactModel.pdb
